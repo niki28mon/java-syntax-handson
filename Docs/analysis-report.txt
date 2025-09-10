@@ -1,9 +1,39 @@
 Laporan Analisis Kode Tugas Pemrograman Java
-Laporan ini menyajikan analisis terhadap serangkaian kode tugas yang mencakup konsep dasar hingga menengah dalam
-pemrograman Java.
+Laporan ini menyajikan hasil analisis terhadap serangkaian kode tugas yang telah dibuat. Analisis ini bertujuan untuk
+mengevaluasi efektivitas, struktur, dan akurasi dari setiap program, serta mengidentifikasi area yang membutuhkan
+perbaikan
+
+Task1:
+SYNTAX CHECKER & NAMING CONVENTION
+-Masih ada kesalahan penulisan sintaks (misalnya, kurang titik koma).
+-Aturan penamaan variabel (ada spasi atau
+diawali angka).
+
+Task2:
+DATA TYPE LIMITS & SIMPLE KALKULATOR
+-Belum mengeksplorasi tipe data lain diluar int dan double.
+-Operasi kalkulator dasar belum diimplementasikan.
+
+Task3:
+DATA LOSS STUDY & TYPE CASTING EXPERIMENT
+-Eksperimen data loss belum lengkap.
+-Tidak ada skenario tambahan yang menunjukan bagaimana data hilang saat konversi (long ke int, float ke int, double ke
+float).
+
+Task4:
+BIODATA MAHASISWA & UNIT CONVERTER
+-Biodata: Beberapa input penting seperti semester, jurusan, dan tahun masuk belum ditambahkan.
+-Unit converter: case 2 (Celcius-Fahrenheit) dan case 3 (Rupiah-Dollar) belum diimplementasikan.
+
+Task5:
+GRADE CALCULATOR
+-Validasi: Belum ada validasi untuk nilai(0-100).
+-Fitur: Konversi skala 4.0 dan status kelulusan belum ditambahkan.
+
+
+
+
 
 Kesimpulan:
-Secara keseluruhan, kode yang dibuat menunjukan pemahaman yang solid dan terintegrasi tentang dasar-dasar
-pemrograman Java. Kemampuan dalam menerapkan konsep-konsep ini secara logis untuk menyelesaikan masalah praktis sudah
-sangat baik. Perbaikan yang dibutuhkan hanya pada detail teknis kecil yang merupakan bagian normal dari proses
-pembelajaran.
+Secara keseluruhan, kode masih membutuhkan perbaikan pada sintaks, penambahan fitur, dan implementasi logikan yang
+lebih lengkap. Perlu fokus pada detail-detail kecil untuk membuat program berfungsi penuh.
